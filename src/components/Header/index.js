@@ -23,7 +23,7 @@ const Header = () => (
             <StyledNavbarCollapse id="responsive-navbar-nav">
                 <Nav>
                     <Nav.Link href="https://restcountries.eu/">Rest countries API</Nav.Link>
-                    <Nav.Link href="#">GitHub Repo</Nav.Link>
+                    <Nav.Link href="https://github.com/Pavlepavlen/rest-countries">GitHub Repo</Nav.Link>
                 </Nav>
             </StyledNavbarCollapse>
         </Navbar>

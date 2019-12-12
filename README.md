@@ -1,5 +1,9 @@
 **This project is designed for providing users information about the countries of 5 different regions of the world. In order to get information, https://restcountries.eu/ was used. Available regions: Africa, Americas, Asia, Europe, Oceania. How to use it is represented on attached gif**
 
+Here is the example how the application works
+
+![](application-cast.gif)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
